@@ -32,3 +32,5 @@
    32  git push -u origin master
    33  history
    34  history > git_command.txt
+   
+   git pull https://github.com/zhouyanggodking/materials.git
