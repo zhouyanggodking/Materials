@@ -34,3 +34,5 @@
    34  history > git_command.txt
    
    git pull https://github.com/zhouyanggodking/materials.git
+
+   git rm -f 'files'  #git remove file
